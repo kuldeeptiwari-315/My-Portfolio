@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kuldeeptiwari.dev/sitemap.xml
+
